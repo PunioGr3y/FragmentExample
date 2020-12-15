@@ -42,10 +42,8 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="like_song">LIKE THE SONG?</string>
     <string name="my_rating">My Rating:</string>
+    <string name="next">Next</string>
+    <string name="previous">previous</string>
 
-
-
-
-       
 
 </resources>

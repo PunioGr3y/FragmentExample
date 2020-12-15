@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/fb51038044d4fc3d21601bd9c5815e29/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/85dad68ab90d08f850cdd5b91abd5e8b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/306c12bca883f4eef220cb89a4c81c8a/AndroidManifest.xml:17:1-31:12
@@ -14,25 +14,25 @@ MERGED from [com.android.support:support-core-ui:26.0.1] /home/odus-toor/.gradle
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/8c642915ce5722d277dd9bcce1891ea6/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a1944f1ad8377d2fb9c28ab3804afdf2/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b4ae535188a765f9544867177c9a803d/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:19:5-50
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml
 		INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:1-37:12
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:21:5-35:19
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/fb51038044d4fc3d21601bd9c5815e29/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/fb51038044d4fc3d21601bd9c5815e29/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/85dad68ab90d08f850cdd5b91abd5e8b/AndroidManifest.xml:25:5-29:19
@@ -54,31 +54,35 @@ MERGED from [com.android.support:support-media-compat:26.0.1] /home/odus-toor/.g
 MERGED from [com.android.support:support-compat:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b4ae535188a765f9544867177c9a803d/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.1] /home/odus-toor/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b4ae535188a765f9544867177c9a803d/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:25:9-54
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.fragmentexample.SecondActivity
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:12:19-49
 activity#com.example.android.fragmentexample.MainActivity
-ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:28:9-34:20
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:28:19-47
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/AndroidManifest.xml

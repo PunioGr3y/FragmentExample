@@ -1,4 +1,4 @@
-#Tue Dec 15 11:33:36 WAT 2020
+#Tue Dec 15 12:51:33 WAT 2020
 base.0=/home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

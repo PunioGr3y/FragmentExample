@@ -16,6 +16,7 @@
 
 package com.example.android.fragmentexample;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -96,5 +97,10 @@ public class MainActivity extends AppCompatActivity {
         mButton.setText(R.string.open);
 //        Set boolean flag to indicate fragment is closed.
         isFragmentDisplayed = false;
+    }
+
+    public void navigateToSecond(View view) {
+        Intent intent = new Intent(this, SecondActivity.class);
+        startActivity(intent);
     }
 }

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 15 11:33:36 WAT 2020
+#Tue Dec 15 12:51:33 WAT 2020
 0.baseType=DIRECTORY
 0.base=/home/odus-toor/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
